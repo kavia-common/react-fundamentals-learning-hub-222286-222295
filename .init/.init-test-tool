@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/react-fundamentals-learning-hub-222286-222295/frontend"
+}
